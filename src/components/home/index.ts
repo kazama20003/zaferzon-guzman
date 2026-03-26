@@ -1,0 +1,9 @@
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { FloatingServicesButton } from './FloatingServicesButton';
+export { Solutions } from './Solutions';
+export { PracticeAreas } from './PracticeAreas';
+export { ProcessSection } from './ProcessSection';
+export { TeamSection } from './TeamSection';
+export { ReviewsSection } from './ReviewsSection';
+export { FooterSection } from './FooterSection';
